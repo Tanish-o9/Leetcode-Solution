@@ -56,17 +56,20 @@ LeetCode-Solutions/
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +101,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0070-climbing-stairs/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
