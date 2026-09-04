@@ -53,6 +53,7 @@ LeetCode-Solutions/
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
@@ -63,6 +64,7 @@ LeetCode-Solutions/
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
@@ -122,9 +124,11 @@ LeetCode-Solutions/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 <!---LeetCode Topics End-->
