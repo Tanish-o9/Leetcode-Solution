@@ -62,6 +62,7 @@ LeetCode-Solutions/
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ LeetCode-Solutions/
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,12 +100,14 @@ LeetCode-Solutions/
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +128,7 @@ LeetCode-Solutions/
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
