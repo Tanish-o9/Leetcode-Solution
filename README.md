@@ -103,6 +103,7 @@ LeetCode-Solutions/
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1046-last-stone-weight](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
