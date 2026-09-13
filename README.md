@@ -140,6 +140,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
@@ -147,12 +148,14 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
