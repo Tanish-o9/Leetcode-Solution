@@ -197,4 +197,16 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 <!---LeetCode Topics End-->
