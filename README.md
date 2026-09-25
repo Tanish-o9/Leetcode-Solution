@@ -200,10 +200,12 @@ LeetCode-Solutions/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -217,8 +219,10 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
