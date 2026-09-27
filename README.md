@@ -202,6 +202,7 @@ LeetCode-Solutions/
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
