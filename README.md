@@ -114,6 +114,7 @@ LeetCode-Solutions/
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1046-last-stone-weight](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,12 +207,14 @@ LeetCode-Solutions/
 | [0237-delete-node-in-a-linked-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
