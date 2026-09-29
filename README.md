@@ -130,6 +130,7 @@ LeetCode-Solutions/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -218,6 +219,7 @@ LeetCode-Solutions/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -239,4 +241,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
