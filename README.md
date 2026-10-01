@@ -114,6 +114,7 @@ LeetCode-Solutions/
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
 | [1046-last-stone-weight](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -124,6 +125,7 @@ LeetCode-Solutions/
 | [0419-battleships-in-a-board](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
+| [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -249,6 +251,7 @@ LeetCode-Solutions/
 | [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +264,9 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
