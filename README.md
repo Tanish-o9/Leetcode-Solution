@@ -105,6 +105,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0198-house-robber](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
@@ -247,6 +248,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +257,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
