@@ -104,6 +104,7 @@ LeetCode-Solutions/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -249,6 +250,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
