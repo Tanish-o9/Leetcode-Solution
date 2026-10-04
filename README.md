@@ -114,6 +114,7 @@ LeetCode-Solutions/
 | [0419-battleships-in-a-board](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
 | [1046-last-stone-weight](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
@@ -274,4 +275,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
