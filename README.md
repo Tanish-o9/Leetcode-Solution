@@ -117,6 +117,7 @@ LeetCode-Solutions/
 | [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -185,6 +186,7 @@ LeetCode-Solutions/
 | [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,4 +285,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
