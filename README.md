@@ -116,6 +116,7 @@ LeetCode-Solutions/
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0860-lemonade-change](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0860-lemonade-change/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
@@ -234,6 +235,7 @@ LeetCode-Solutions/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0860-lemonade-change](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0860-lemonade-change/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
