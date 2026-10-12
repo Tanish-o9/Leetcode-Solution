@@ -57,6 +57,7 @@ LeetCode-Solutions/
 | [0110-balanced-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
@@ -148,6 +149,7 @@ LeetCode-Solutions/
 | [0045-jump-game-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
@@ -168,6 +170,7 @@ LeetCode-Solutions/
 | [0110-balanced-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -181,6 +184,7 @@ LeetCode-Solutions/
 | [0110-balanced-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -307,4 +311,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
