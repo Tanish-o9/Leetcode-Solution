@@ -79,6 +79,7 @@ LeetCode-Solutions/
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
@@ -241,6 +242,7 @@ LeetCode-Solutions/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -249,6 +251,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -320,4 +323,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
 <!---LeetCode Topics End-->
