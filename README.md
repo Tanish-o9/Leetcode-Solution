@@ -84,6 +84,7 @@ LeetCode-Solutions/
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
+| [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -124,6 +125,7 @@ LeetCode-Solutions/
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [0860-lemonade-change](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
@@ -245,6 +247,7 @@ LeetCode-Solutions/
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -254,6 +257,7 @@ LeetCode-Solutions/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -329,4 +333,5 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
