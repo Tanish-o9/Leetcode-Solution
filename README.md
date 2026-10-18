@@ -250,6 +250,7 @@ LeetCode-Solutions/
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -260,6 +261,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -346,4 +348,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
