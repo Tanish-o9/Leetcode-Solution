@@ -68,6 +68,7 @@ LeetCode-Solutions/
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -88,6 +89,7 @@ LeetCode-Solutions/
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0994-rotting-oranges/) | Medium |
@@ -100,6 +102,7 @@ LeetCode-Solutions/
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -113,6 +116,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +304,7 @@ LeetCode-Solutions/
 | [0040-combination-sum-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0980-unique-paths-iii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
