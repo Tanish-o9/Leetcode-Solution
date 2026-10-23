@@ -58,6 +58,7 @@ LeetCode-Solutions/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0130-surrounded-regions](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
@@ -80,6 +81,7 @@ LeetCode-Solutions/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0127-word-ladder](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0127-word-ladder/) | Hard |
+| [0130-surrounded-regions](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
@@ -127,6 +129,7 @@ LeetCode-Solutions/
 | [0055-jump-game](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0198-house-robber](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
@@ -151,6 +154,7 @@ LeetCode-Solutions/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
@@ -180,6 +184,7 @@ LeetCode-Solutions/
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
