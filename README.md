@@ -74,6 +74,7 @@ LeetCode-Solutions/
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ LeetCode-Solutions/
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ LeetCode-Solutions/
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +244,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
