@@ -293,6 +293,7 @@ LeetCode-Solutions/
 | [0433-minimum-genetic-mutation](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [3340-check-balanced-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3340-check-balanced-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
