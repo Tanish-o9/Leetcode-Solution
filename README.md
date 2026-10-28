@@ -139,6 +139,7 @@ LeetCode-Solutions/
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0542-01-matrix](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
@@ -247,6 +248,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -299,6 +301,7 @@ LeetCode-Solutions/
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0055-jump-game/) | Medium |
+| [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0860-lemonade-change/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 ## Two Pointers
@@ -307,6 +310,7 @@ LeetCode-Solutions/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -398,4 +402,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
