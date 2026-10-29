@@ -70,6 +70,7 @@ LeetCode-Solutions/
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
@@ -95,6 +96,7 @@ LeetCode-Solutions/
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
 | [0752-open-the-lock](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0752-open-the-lock/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
@@ -108,6 +110,7 @@ LeetCode-Solutions/
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0841-keys-and-rooms/) | Medium |
@@ -184,6 +187,7 @@ LeetCode-Solutions/
 | [0198-house-robber](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
 | [0542-01-matrix](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +258,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1046-last-stone-weight](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -406,4 +411,8 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
