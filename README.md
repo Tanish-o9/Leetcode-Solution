@@ -53,6 +53,7 @@ LeetCode-Solutions/
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -204,6 +205,7 @@ LeetCode-Solutions/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -220,6 +222,7 @@ LeetCode-Solutions/
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -237,6 +240,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
