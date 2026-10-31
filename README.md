@@ -64,6 +64,7 @@ LeetCode-Solutions/
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -212,6 +213,7 @@ LeetCode-Solutions/
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -229,6 +231,7 @@ LeetCode-Solutions/
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -244,6 +247,7 @@ LeetCode-Solutions/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -419,4 +423,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
