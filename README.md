@@ -143,6 +143,7 @@ LeetCode-Solutions/
 | [0198-house-robber](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0414-third-maximum-number](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0542-01-matrix](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0542-01-matrix/) | Medium |
@@ -260,6 +261,7 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0414-third-maximum-number](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/3319-k-th-largest-perfect-subtree-size-in-binary-tree/) | Medium |
 ## Heap (Priority Queue)
