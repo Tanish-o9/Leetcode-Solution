@@ -65,6 +65,7 @@ LeetCode-Solutions/
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -215,6 +216,7 @@ LeetCode-Solutions/
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -233,6 +235,7 @@ LeetCode-Solutions/
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -429,8 +432,10 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
