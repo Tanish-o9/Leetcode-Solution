@@ -184,6 +184,7 @@ LeetCode-Solutions/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0070-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -286,6 +287,7 @@ LeetCode-Solutions/
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -344,6 +346,7 @@ LeetCode-Solutions/
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
