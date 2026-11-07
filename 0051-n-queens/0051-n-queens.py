@@ -9,6 +9,8 @@ class Solution:
                 leftrow[row] = 1
                 lowerdiagonal[col+row] = 1
                 upperdiagonal[n-1+col-row] = 1
+
+
                 self.solve(col+1, board, ans, leftrow, lowerdiagonal, upperdiagonal, n)
                 board[row] = board[row][:col] + "." + board[row][col + 1:]
                 leftrow[row] = 0
