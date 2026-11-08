@@ -60,6 +60,7 @@ LeetCode-Solutions/
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0130-surrounded-regions/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0210-course-schedule-ii/) | Medium |
@@ -221,6 +222,7 @@ LeetCode-Solutions/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -240,6 +242,7 @@ LeetCode-Solutions/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -378,6 +381,7 @@ LeetCode-Solutions/
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
