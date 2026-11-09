@@ -152,6 +152,7 @@ LeetCode-Solutions/
 | [0414-third-maximum-number](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0455-assign-cookies](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0733-flood-fill/) | Easy |
@@ -382,10 +383,12 @@ LeetCode-Solutions/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tanish-o9/Leetcode-Solution/tree/main/0739-daily-temperatures/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
