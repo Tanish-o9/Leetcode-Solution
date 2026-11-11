@@ -27,7 +27,6 @@ class Solution:
             for c in range(cols):
                 if grid[r][c] == 1:
                     area = dfs(r, c)
-
                     max_area = max(max_area, area)
         return max_area
     
